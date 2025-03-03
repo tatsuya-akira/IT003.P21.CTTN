@@ -1,0 +1,65 @@
+QuickSort
+Ordered Asc: 58 ms
+Ordered Desc: 65 ms
+Unordered 1: 240 ms
+Unordered 2: 238 ms
+Unordered 3: 240 ms
+Unordered 4: 250 ms
+Unordered 5: 239 ms
+Unordered 6: 237 ms
+Unordered 7: 243 ms
+Unordered 8: 238 ms
+Average time: 204.8ms
+
+HeapSort
+Ordered Asc: 403 ms
+Ordered Desc: 391 ms
+Unordered 1: 567 ms
+Unordered 2: 574 ms
+Unordered 3: 561 ms
+Unordered 4: 586 ms
+Unordered 5: 558 ms
+Unordered 6: 558 ms
+Unordered 7: 562 ms
+Unordered 8: 569 ms
+Average time: 532.9ms
+
+MergeSort
+Ordered Asc: 339 ms
+Ordered Desc: 456 ms
+Unordered 1: 626 ms
+Unordered 2: 638 ms
+Unordered 3: 639 ms
+Unordered 4: 631 ms
+Unordered 5: 639 ms
+Unordered 6: 631 ms
+Unordered 7: 633 ms
+Unordered 8: 630 ms
+Average time: 586.2ms
+
+sort (C++)
+Ordered Asc: 479 ms
+Ordered Desc: 542 ms
+Unordered 1: 374 ms
+Unordered 2: 355 ms
+Unordered 3: 351 ms
+Unordered 4: 349 ms
+Unordered 5: 376 ms
+Unordered 6: 344 ms
+Unordered 7: 347 ms
+Unordered 8: 352 ms
+Average time: 386.9ms
+
+sort (Python)
+Ordered Asc: 15 ms
+Ordered Desc: 16 ms
+Unordered 1: 15 ms
+Unordered 2: 15 ms
+Unordered 3: 15 ms
+Unordered 4: 16 ms
+Unordered 5: 18 ms
+Unordered 6: 15 ms
+Unordered 7: 15 ms
+Unordered 8: 15 ms
+Average time: 15.4ms
+
